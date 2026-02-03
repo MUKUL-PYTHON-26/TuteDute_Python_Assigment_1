@@ -3,3 +3,6 @@
 This repository contains:
 * *task1.py*: Basic mathematical operations (Addition, Subtraction, Multiplication, and Division).
 * *task2.py*: Personalized greeting program using user input.
+### Assignment 2 (Control Structures)
+* task3.py: Program to check if a number is Even or Odd using if-else.
+* task4.py: Program to calculate the sum of numbers from 1 to 50 using a for loop.
