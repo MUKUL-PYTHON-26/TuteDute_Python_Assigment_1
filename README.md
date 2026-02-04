@@ -15,3 +15,7 @@ This repository contains:
 ## Assignment 4: Files & Exceptions
 * task7.py: Reading a file with exception handling.
 * task8.py: File writing and appending operations.
+
+## Assignment 5: Data Structures & Strings
+* task9.py: Student marks dictionary and search program.
+* task10.py: List slicing and reversing operations.
