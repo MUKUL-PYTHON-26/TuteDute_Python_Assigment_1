@@ -1,9 +1,9 @@
 import math
 
-# User se input lena
+# Get input from user
 n = float(input("Enter a number: "))
 
-# Math functions use karna jaisa screenshot mein hai
-print(f"Square root: {math.sqrt(n)}")
-print(f"Logarithm: {math.log(n)}")
-print(f"Sine: {math.sin(n)}")
+# Calculate and print results
+print("Square root:", math.sqrt(n))
+print("Logarithm:", math.log(n))
+print("Sine value:", math.sin(n))
