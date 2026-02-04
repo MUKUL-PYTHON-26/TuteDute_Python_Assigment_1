@@ -1,13 +1,13 @@
-# Function jo factorial calculate karega
+# Function to calculate factorial
 def factorial(n):
     res = 1
-    # 1 se lekar n tak ka loop
+    # Loop from 1 to n
     for i in range(1, n + 1):
         res = res * i
     return res
 
-# User se number maangna
+# Taking input from the user
 num = int(input("Enter a number: "))
 
-# Result ko print karna (Expected output ke hisaab se)
+# Printing the final result
 print(f"Factorial of {num} is: {factorial(num)}")
