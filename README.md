@@ -6,3 +6,6 @@ This repository contains:
 ### Assignment 2 (Control Structures)
 * task3.py: Program to check if a number is Even or Odd using if-else.
 * task4.py: Program to calculate the sum of numbers from 1 to 50 using a for loop.
+## Assignment 3: Functions & Modules
+* task5.py: Factorial calculation using for loop.
+* task6.py: Using math module for sqrt, log, and sine.
